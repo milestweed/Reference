@@ -1,0 +1,5 @@
+This is a sample text file to practice loading a file into a nltk corpus.  lets see how this works, but I wonder if it will be ok.  Let's give it a go and maybe we will get lucky.
+
+I like to use multiple lines with some whitespace in between because that is the kind of annoying stuff that I have to deal with.
+
+
